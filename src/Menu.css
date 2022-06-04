@@ -1,0 +1,10 @@
+.menu{
+    background-color: cyan;
+    padding: 8px;
+    text-align: right;
+    font-weight: bold
+}
+.menu > a{
+    margin-right: 10px;
+    font-style: italic;
+}
